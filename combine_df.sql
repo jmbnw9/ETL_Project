@@ -2,6 +2,7 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/UorJBm
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+DROP TABLE combine_df;
 
 CREATE TABLE "combine_df" (
     "player" VARCHAR   NOT NULL,
