@@ -19,7 +19,6 @@ CREATE TABLE "combine_df" (
     "body_fat" FLOAT   NOT NULL,
     "hand_length" FLOAT   NOT NULL,
     "hand_width" FLOAT   NOT NULL,
-    "bench" FLOAT   NOT NULL,
     "agility" FLOAT   NOT NULL,
     "sprint" FLOAT   NOT NULL,
     CONSTRAINT "pk_combine_df" PRIMARY KEY (
